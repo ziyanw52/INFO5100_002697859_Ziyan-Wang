@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb24af53-93bd-4be2-bcbe-a33359fd8221" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../INFO5100_002697859_ZiyanWang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../INFO5100_002697859_ZiyanWang.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Car$Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Car$Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Car$Wheel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Car$Wheel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/City.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/City.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Clothes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Clothes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Drink.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Drink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Food.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/House.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Place.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Place.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Restaurant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise0/Restaurant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise1/FullTimeStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise1/FullTimeStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise1/PartTimeStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise1/PartTimeStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise1/Session.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise1/Session.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise1/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise2/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise2/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise2/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise2/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise2/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise2/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise2/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise2/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise2/shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise2/shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise3b/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise3b/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise3b/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise3b/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise3b/SerializeObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise3b/SerializeObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise3b/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise3b/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise3b/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise3b/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise3b/shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise3b/shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise4/RegularExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/INFO5100_002697859_ZiyanWang/exercises/exercise4/RegularExpression.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ZZiv34sjPTjYLkWm66dmIuyvMm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SimpleCalculatorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.simplecalculator.SimpleCalculatorApplication" />
+      <module name="SimpleCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.simplecalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleCalculatorApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb24af53-93bd-4be2-bcbe-a33359fd8221" name="Changes" comment="" />
+      <created>1702636245350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702636245350</updated>
+    </task>
+    <servers />
+  </component>
+</project>
